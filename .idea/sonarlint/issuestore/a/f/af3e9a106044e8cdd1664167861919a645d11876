@@ -1,0 +1,21 @@
+
+T
+java:S5993"9Change the visibility of this constructor to "protected".(§Š×²ÿÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(÷ãÎµ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(©ïÙïûÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¶’†ºúÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(É¾à‰
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+I
+java:S1068".Remove this unused "clientName" private field.(î™²ìüÿÿÿÿ
+E
+java:S1068"/Remove this unused "projectName" private field.(çÜ¶‰
+S
+java:S1068	"8Remove this unused "isAutomationFeasible" private field.(‘Œ½®øÿÿÿÿ
+O
+java:S1068
+"4Remove this unused "technologiesUsed" private field.(Áß¢Ãþÿÿÿÿ
+E
+java:S1068"/Remove this unused "isCTEnabled" private field.(ª¶ÈÇ
